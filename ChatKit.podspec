@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.dependency "AVOSCloudIM", "~> 11.4.9"
   s.dependency "MJRefresh" , "~> 3.1.9"
   s.dependency "Masonry" , "~> 1.1.0"
-  s.dependency "SDWebImage" , "~> 3.8.0"
+  s.dependency "SDWebImage" , "~> 3.7.6"
   s.dependency "FMDB" , "~> 2.6.2"
   s.dependency "pop", "~> 1.0.9"
   s.dependency "UITableView+FDTemplateLayoutCell" , "~> 1.5.beta"
